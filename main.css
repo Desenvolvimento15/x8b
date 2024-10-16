@@ -5501,7 +5501,7 @@ body.noflow {
   position: absolute;
   width: 66%;
   text-align: center;
-  top: 35%;
+  top: 47%;
   left: 50%;
   transform: translate(-50%, -200%);
   transition: all 0.7s ease;
